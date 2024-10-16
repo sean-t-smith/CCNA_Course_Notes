@@ -68,7 +68,7 @@ How do devices communicate via their connections?
 
 Each ethernet cable has a RJ-45 plug with 8 pins on the ends.
 
-![image](https://github.com/psaumur/CCNA/assets/106411237/323930c9-3387-4bf9-aae1-f61db0fd9c04)
+![image](https://github.com/sean-t-smith/CCNA_Course_Notes/blob/main/Assets/338795925-323930c9-3387-4bf9-aae1-f61db0fd9c04)
 
 
 - PCs Transmit(TX) data on Pins #1-2
